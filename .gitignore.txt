@@ -1,0 +1,3 @@
+.vs/*
+NetCoreWebAPI/bin/debug/*.exe
+NetCoreWebAPI/obj/debug/*.exe
